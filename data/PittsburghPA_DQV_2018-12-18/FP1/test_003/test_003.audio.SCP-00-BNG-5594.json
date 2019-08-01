@@ -1,0 +1,13 @@
+{
+    "serial_number":"SCP-00-BNG-5594",
+    "timestamp":"2018-12-19T00:52:29.000Z",
+    "location":{
+        "x":-11743.7488586945,
+        "y":3731.13502696250,
+        "z":-331.358069366200
+    },
+    "creator":"ShotSpotter, Inc.",
+    "license":"CC BY 4.0",
+    "description":"3 rounds from 45 cal automatic handgun discharged during City of Pittsburgh gunshot location test 03, location relative to arbitrary origin.",
+    "original_file_md5":"75f5b4cc381edb8272fc31c42587ad6b"
+}

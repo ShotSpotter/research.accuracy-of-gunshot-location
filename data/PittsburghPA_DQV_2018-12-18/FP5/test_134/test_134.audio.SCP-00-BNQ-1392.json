@@ -1,0 +1,13 @@
+{
+    "serial_number":"SCP-00-BNQ-1392",
+    "timestamp":"2018-12-19T05:30:34.000Z",
+    "location":{
+        "x":-8092.28559058846,
+        "y":-9752.61382840201,
+        "z":-354.083508191826
+    },
+    "creator":"ShotSpotter, Inc.",
+    "license":"CC BY 4.0",
+    "description":"3 rounds from 40 cal automatic handgun discharged during City of Pittsburgh gunshot location test 134, location relative to arbitrary origin.",
+    "original_file_md5":"bac00cfa4373a1d8dd47a7bdde862639"
+}

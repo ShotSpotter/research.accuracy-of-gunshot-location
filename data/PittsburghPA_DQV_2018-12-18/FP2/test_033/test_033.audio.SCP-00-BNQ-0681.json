@@ -1,0 +1,13 @@
+{
+    "serial_number":"SCP-00-BNQ-0681",
+    "timestamp":"2018-12-19T01:49:11.000Z",
+    "location":{
+        "x":-11159.7838463546,
+        "y":-6651.36007243302,
+        "z":-369.918491053980
+    },
+    "creator":"ShotSpotter, Inc.",
+    "license":"CC BY 4.0",
+    "description":"3 rounds from 9mm automatic handgun discharged during City of Pittsburgh gunshot location test 33, location relative to arbitrary origin.",
+    "original_file_md5":"a1723e8b151a2fc9ad01908b63704d75"
+}

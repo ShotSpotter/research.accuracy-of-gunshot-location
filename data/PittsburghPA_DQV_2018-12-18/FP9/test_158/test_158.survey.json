@@ -1,0 +1,16 @@
+{
+    "test_id":158,
+    "firing_position":"FP9",
+    "num_rounds":3,
+    "firearm":"9mm Automatic Handgun",
+    "approximate_time_utc":"2018-12-19T06:05:00.000Z",
+    "survey_location":{
+        "x":-5872.35935527121,
+        "y":-8188.02312246710,
+        "z":-26.4352827538900
+    },
+    "creator":"ShotSpotter, Inc.",
+    "license":"CC BY 4.0",
+    "description":"GPS-determined shooter location in arbitrary coordinates. 3 rounds from 9mm automatic handgun discharged during City of Pittsburgh gunshot location test 158, location relative to arbitrary origin.",
+    "comment":""
+}

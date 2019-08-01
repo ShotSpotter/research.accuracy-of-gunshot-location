@@ -1,0 +1,16 @@
+{
+    "test_id":94,
+    "firing_position":"FP7",
+    "num_rounds":1,
+    "firearm":"45 Cal Automatic Handgun",
+    "approximate_time_utc":"2018-12-19T04:18:00.000Z",
+    "survey_location":{
+        "x":-848.720831053681,
+        "y":-13875.2627226943,
+        "z":-103.814367384901
+    },
+    "creator":"ShotSpotter, Inc.",
+    "license":"CC BY 4.0",
+    "description":"GPS-determined shooter location in arbitrary coordinates. 1 round from 45 cal automatic handgun discharged during City of Pittsburgh gunshot location test 94, location relative to arbitrary origin.",
+    "comment":""
+}

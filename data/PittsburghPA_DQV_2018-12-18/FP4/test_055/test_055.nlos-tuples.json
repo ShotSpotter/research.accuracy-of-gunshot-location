@@ -1,0 +1,37 @@
+[
+    {
+        "shot_index":0,
+        "pulse_uuids":[
+            "16078ddc-67af-47be-5c22-207f9a09f5f4",
+            "8de153ae-b893-3365-5c1b-7d559b1494c4",
+            "a6daeeae-8b04-756b-6b6e-6be5106a88ac",
+            "989f8f67-39e4-5529-8ea7-ea4f4cfea128"
+        ]
+    },
+    {
+        "shot_index":1,
+        "pulse_uuids":[
+            "402bee9d-7ccb-cdb3-c41b-0de067906134",
+            "15157785-c655-12b0-a76f-d7d7da661590",
+            "e743c27c-7955-ec6c-fe7b-7b9f9750fb56",
+            "d890948e-b91e-5b74-c27e-f0672f9c9cb7",
+            "3fb2d50c-8f99-c39a-1dcf-5184396bb7ca",
+            "452dfb55-3527-6880-8ce4-947f762c8f3a",
+            "4c30f92a-cd53-4896-e7cc-7a62d5f857e0",
+            "68f3fd58-1214-9121-57f5-f4a4b70701cf"
+        ]
+    },
+    {
+        "shot_index":2,
+        "pulse_uuids":[
+            "5639bfca-2c00-8687-578e-92ff6c89ad31",
+            "90b0c400-f800-905e-956f-a4d54b921f4c",
+            "2f7b05b2-07a3-ad64-9934-f91ecbdecfc9",
+            "4d259dc6-f69a-a3bd-b997-a41f9c5a9d20",
+            "9b54289d-dec3-97ef-58af-9d47242dd466",
+            "338ba5ca-71bc-ac31-7ad2-d18f736041a7",
+            "3d80e4e5-396b-8112-9128-a2566f82e814",
+            "817e3a3b-492a-45b9-10e2-0c4f881418c8"
+        ]
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "serial_number":"SCP-00-AAA-1242",
+    "timestamp":"2018-12-19T03:30:20.000Z",
+    "location":{
+        "x":6619.09288822417,
+        "y":-4424.30142988916,
+        "z":-359.090113583527
+    },
+    "creator":"ShotSpotter, Inc.",
+    "license":"CC BY 4.0",
+    "description":"1 round from 45 cal automatic handgun discharged during City of Pittsburgh gunshot location test 76, location relative to arbitrary origin.",
+    "original_file_md5":"58411ca4a070995f2013cec0bc241eee"
+}

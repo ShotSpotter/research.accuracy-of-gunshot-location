@@ -1,0 +1,16 @@
+{
+    "test_id":136,
+    "firing_position":"FP5",
+    "num_rounds":1,
+    "firearm":"40 Cal Automatic Handgun",
+    "approximate_time_utc":"2018-12-19T05:33:00.000Z",
+    "survey_location":{
+        "x":-7860.46805901872,
+        "y":-9963.66940924898,
+        "z":-72.5835081918260
+    },
+    "creator":"ShotSpotter, Inc.",
+    "license":"CC BY 4.0",
+    "description":"GPS-determined shooter location in arbitrary coordinates. 1 round from 40 cal automatic handgun discharged during City of Pittsburgh gunshot location test 136, location relative to arbitrary origin.",
+    "comment":""
+}

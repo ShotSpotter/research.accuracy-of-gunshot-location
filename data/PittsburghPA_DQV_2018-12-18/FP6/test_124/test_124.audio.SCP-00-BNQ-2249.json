@@ -1,0 +1,13 @@
+{
+    "serial_number":"SCP-00-BNQ-2249",
+    "timestamp":"2018-12-19T05:08:40.000Z",
+    "location":{
+        "x":-2012.37626619102,
+        "y":-3507.36892492697,
+        "z":-300.646547956167
+    },
+    "creator":"ShotSpotter, Inc.",
+    "license":"CC BY 4.0",
+    "description":"1 round from 9mm automatic handgun discharged during City of Pittsburgh gunshot location test 124, location relative to arbitrary origin.",
+    "original_file_md5":"dcc8ff33722af5158b5699bc5300b086"
+}

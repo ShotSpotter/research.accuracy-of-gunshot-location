@@ -1,0 +1,13 @@
+{
+    "serial_number":"SCP-00-BNG-5543",
+    "timestamp":"2018-12-19T05:07:21.000Z",
+    "location":{
+        "x":-1875.48264894786,
+        "y":-3801.85695159808,
+        "z":-300.646547956167
+    },
+    "creator":"ShotSpotter, Inc.",
+    "license":"CC BY 4.0",
+    "description":"3 rounds from 9mm automatic handgun discharged during City of Pittsburgh gunshot location test 122, location relative to arbitrary origin.",
+    "original_file_md5":"6ccdbce11ac992007c254f1f6b7d8751"
+}

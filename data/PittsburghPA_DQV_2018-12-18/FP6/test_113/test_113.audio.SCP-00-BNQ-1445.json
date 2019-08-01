@@ -1,0 +1,13 @@
+{
+    "serial_number":"SCP-00-BNQ-1445",
+    "timestamp":"2018-12-19T05:00:01.000Z",
+    "location":{
+        "x":-2127.19487864373,
+        "y":-3761.59708638210,
+        "z":-300.646547956167
+    },
+    "creator":"ShotSpotter, Inc.",
+    "license":"CC BY 4.0",
+    "description":"1 round from 45 cal automatic handgun discharged during City of Pittsburgh gunshot location test 113, location relative to arbitrary origin.",
+    "original_file_md5":"942bab0dad4c5a1edab430eb48edc362"
+}

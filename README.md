@@ -38,7 +38,7 @@ Metadata associated with audio files, as follows:
 
 ### Survey Location: ```test_{xxx}.survey.json``` ###
 
-Surveyed location of the firing test, as determined by a GPS-enabled smartphone. Accuracy of the survey location is approximately 2.5 m.
+Surveyed location of the firing test, as determined by a GPS-enabled smartphone. Accuracy of the survey location is approximately 2.5 meters.
 
 | field | description |
 |-------|-------------|
@@ -57,7 +57,7 @@ Weather data, reported from the nearest available NWS METAR station.
 
 | field | description |
 |-------|-------------|
-| fluid | always "air |
+| fluid | always "air" |
 | temperature | in deg C |
 | speed | windspeed in m/s |
 | direction | wind direction, as a from azimuth |
@@ -86,7 +86,7 @@ Pulse data reported by ShotSpotter sensors. This file includes pulses from senso
 
 ### Pulse Selection Data: ```test_{xxx}.nlos-tuples.json``` ###
 
-Sets of pulses from ```test_{xxx}.allpulses.json`` associated with each individual shots, as selected by ShotSpotter algorithms.
+Sets of pulses from ```test_{xxx}.allpulses.json``` associated with each individual shots, as selected by ShotSpotter algorithms.
 
 | field | description |
 |-------|-------------|

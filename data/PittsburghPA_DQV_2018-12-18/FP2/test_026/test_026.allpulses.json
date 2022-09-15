@@ -65,19 +65,6 @@
         "power_dB_SPL":94.4824
     },
     {
-        "pulse_uuid":"00000000-0000-0000-0000-000000000000",
-        "serial_number":"SCP-00-BNG-5137",
-        "arrival_time_utc":"2018-12-19T01:39:45.350Z",
-        "location":{
-            "x":-11463.6148451552,
-            "y":-6664.30746835005,
-            "z":-369.918491053980
-        },
-        "location_error":0.00000,
-        "signal_to_noise_dB":7.22491,
-        "power_dB_SPL":71.5881
-    },
-    {
         "pulse_uuid":"1c6fcb2a-4c72-1d27-66a6-1f41da31803c",
         "serial_number":"SCP-00-BNQ-2069",
         "arrival_time_utc":"2018-12-19T01:39:45.583Z",
@@ -193,19 +180,6 @@
         "location_error":0.0269190,
         "signal_to_noise_dB":24.3575,
         "power_dB_SPL":94.5713
-    },
-    {
-        "pulse_uuid":"00000000-0000-0000-0000-000000000000",
-        "serial_number":"SCP-00-BNG-5137",
-        "arrival_time_utc":"2018-12-19T01:39:45.992Z",
-        "location":{
-            "x":-11463.6148451552,
-            "y":-6664.30746835005,
-            "z":-369.918491053980
-        },
-        "location_error":0.00000,
-        "signal_to_noise_dB":7.22491,
-        "power_dB_SPL":71.5881
     },
     {
         "pulse_uuid":"1e979a23-8cfd-0593-958a-d1ca8aa8052a",
@@ -375,19 +349,6 @@
         "location_error":0.0327330,
         "signal_to_noise_dB":10.1377,
         "power_dB_SPL":79.3254
-    },
-    {
-        "pulse_uuid":"00000000-0000-0000-0000-000000000000",
-        "serial_number":"SCP-00-BNG-5137",
-        "arrival_time_utc":"2018-12-19T01:39:46.659Z",
-        "location":{
-            "x":-11463.6148451552,
-            "y":-6664.30746835005,
-            "z":-369.918491053980
-        },
-        "location_error":0.00000,
-        "signal_to_noise_dB":7.22491,
-        "power_dB_SPL":71.5881
     },
     {
         "pulse_uuid":"742421cb-d9e4-5f77-3166-82aa072d14f7",

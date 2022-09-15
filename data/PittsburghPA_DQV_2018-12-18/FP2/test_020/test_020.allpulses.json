@@ -676,19 +676,6 @@
         "power_dB_SPL":75.1771
     },
     {
-        "pulse_uuid":"00000000-0000-0000-0000-000000000000",
-        "serial_number":"SCP-00-BNG-5461",
-        "arrival_time_utc":"2018-12-19T01:31:11.324Z",
-        "location":{
-            "x":-10905.0656945606,
-            "y":-6237.18623511400,
-            "z":-369.918491053980
-        },
-        "location_error":0.00000,
-        "signal_to_noise_dB":5.88225,
-        "power_dB_SPL":71.0488
-    },
-    {
         "pulse_uuid":"939d12fe-557f-1fae-598b-526d2593e9cf",
         "serial_number":"SCP-00-BNQ-0715",
         "arrival_time_utc":"2018-12-19T01:31:11.645Z",

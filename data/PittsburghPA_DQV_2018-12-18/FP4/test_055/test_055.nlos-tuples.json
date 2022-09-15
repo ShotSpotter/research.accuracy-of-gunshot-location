@@ -1,14 +1,5 @@
 [
     {
-        "shot_index":0,
-        "pulse_uuids":[
-            "16078ddc-67af-47be-5c22-207f9a09f5f4",
-            "8de153ae-b893-3365-5c1b-7d559b1494c4",
-            "a6daeeae-8b04-756b-6b6e-6be5106a88ac",
-            "989f8f67-39e4-5529-8ea7-ea4f4cfea128"
-        ]
-    },
-    {
         "shot_index":1,
         "pulse_uuids":[
             "402bee9d-7ccb-cdb3-c41b-0de067906134",
